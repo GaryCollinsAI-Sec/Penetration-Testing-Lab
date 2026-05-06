@@ -1,4 +1,4 @@
-# Purple Team Lab
+# Penetration testing Lab
 
 
 Hands-on labs demonstrating offensive and defensive cybersecurity techniques, including exploitation, security Hardening, and remediation solutions.
