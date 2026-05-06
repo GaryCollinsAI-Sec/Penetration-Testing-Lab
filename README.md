@@ -1,4 +1,4 @@
-# Penetration testing Lab
+# Security Assessment Lab
 
 
 Hands-on labs demonstrating offensive and defensive cybersecurity techniques, including exploitation, security Hardening, and remediation solutions.
