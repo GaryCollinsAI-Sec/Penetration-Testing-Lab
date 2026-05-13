@@ -19,3 +19,11 @@ Hands-on labs demonstrating offensive and defensive cybersecurity techniques, in
 ## 🎯 Purpose
 
 This repository demonstrates practical, real-world cybersecurity skills aligned with penetration testing and security consulting. Each lab includes both offensive techniques and recommended defensive measures.
+
+
+<hr>
+
+<h2>🔗 Project Links</h2>
+<p>
+  <a href="https://github.com/GaryCollinsAI-Sec">Main Portfolio</a>
+</p>
