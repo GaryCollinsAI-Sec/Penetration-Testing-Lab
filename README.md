@@ -1,4 +1,4 @@
-# Security Assessment Lab
+# Security Assessment Remediation & System Hardening Lab (Kali | Metasploitable | pfSense)
 
 
 Hands-on labs demonstrating offensive and defensive cybersecurity techniques, including exploitation, security Hardening, and remediation solutions.
