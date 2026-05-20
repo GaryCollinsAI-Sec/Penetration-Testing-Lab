@@ -1,4 +1,4 @@
-<h1 align="center">Security Assessment, Remediation & System Hardening Lab</h1>
+<h1 align="center">Purple Team Security Lab</h1>
 <h3 align="center">(Kali Linux | Metasploitable 2 | pfSense)</h3>
 
 <p align="center">
